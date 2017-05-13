@@ -2,12 +2,18 @@
 
 > Ensure safe routes to destinations while on a vacation.
 
-## Team
+## Original Team
 
   - Jason
   - Huan
   - Gabe
   - Billy
+## Legacy Team
+
+  - Aiden 
+  - Eugene
+  - Whitney
+  - Gary 
 
 ## Table of Contents
 
@@ -25,6 +31,7 @@
 1. Select travel dates.
 1. View trips, weather, route of added destinations, and crime heat map
 1. Log in to save trips. 
+1. Reply with zipcode for weather, city name for shows
 
 ## Requirements
 
